@@ -144,7 +144,6 @@ MIT — free to use, adapt, and build upon.
 **Rafael Mesa-Manzano, PhD**  
 Geography & Spatial Data Science  
 University of Valencia, Spain  
-[Upwork Profile](#) · [LinkedIn](#)
 
 *Published researcher in urban decarbonisation and teleworking emissions. Available for consulting on commuting analysis, ESG reporting, and geospatial data projects.*
 ```
