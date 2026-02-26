@@ -1,0 +1,16 @@
+employee_id,name,home_address,transport_mode,telework_days_per_week
+E001,Ana García,Calle Mayor 10 Valencia Spain,car,2
+E002,Carlos López,Avenida del Puerto 45 Valencia Spain,car,1
+E003,María Fernández,Calle Colón 8 Valencia Spain,transit,3
+E004,Juan Martínez,Paseo de la Alameda 22 Valencia Spain,car,0
+E005,Laura Sánchez,Calle Sagunto 67 Valencia Spain,car,2
+E006,Pedro Ruiz,Avenida Blasco Ibáñez 30 Valencia Spain,transit,1
+E007,Isabel Torres,Calle Quart 15 Valencia Spain,car,3
+E008,Antonio Moreno,Calle San Vicente 90 Valencia Spain,car,0
+E009,Carmen Jiménez,Avenida Pérez Galdós 12 Valencia Spain,transit,2
+E010,Francisco Navarro,Calle Guillem de Castro 55 Valencia Spain,car,1
+E011,Rosa Díaz,Calle Turia 33 Valencia Spain,car,2
+E012,Miguel Romero,Avenida Francia 18 Valencia Spain,car,1
+E013,Elena Alonso,Calle Játiva 7 Valencia Spain,transit,0
+E014,David Gutiérrez,Calle Ciscar 44 Valencia Spain,car,3
+E015,Pilar Vázquez,Avenida Constitución 28 Valencia Spain,car,2
