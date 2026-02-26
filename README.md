@@ -1,7 +1,7 @@
 # 🚗 Commuting Emissions Calculator
 
 > **Quantify, visualize, and reduce your organization's commuting CO₂ footprint using Google Maps API, Python, and BigQuery.**
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/memanra/commuting-emissions-calculator/blob/main/commuting_emissions_colab.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Google Maps API](https://img.shields.io/badge/Google%20Maps-API-green)](https://developers.google.com/maps)
 [![BigQuery](https://img.shields.io/badge/BigQuery-GCP-orange)](https://cloud.google.com/bigquery)
